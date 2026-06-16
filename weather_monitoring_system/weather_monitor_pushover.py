@@ -1,4 +1,4 @@
-#! /bin/sh
+O#! /bin/sh
 # /home/pi/Project2/pushover
 #
 ### BEGIN INIT INFO
